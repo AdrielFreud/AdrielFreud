@@ -10,7 +10,7 @@
 
 ## Olá! 👋
 
-Meu nome é AdrielFernando, Trabalho como Desenvolvedor de Sistemas e apaixonado por Desenvolvimento.
+Meu nome é Adriel F, Trabalho como Desenvolvedor de Sistemas e sou apaixonado por Desenvolvimento.
 
 - :office_worker: Desenvolvedor na **Workana**
 - :blue_heart: Techs: Python, C/C++, Assembly, PHP, CSS, Javascript, NodeJS, ReactJS, MYSQL entre outras.
@@ -24,9 +24,9 @@ Meu nome é AdrielFernando, Trabalho como Desenvolvedor de Sistemas e apaixonado
   <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
   <br>
 
-  [![Github Status](https://github-readme-stats.vercel.app/api?username=AdrielFreud&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/AdrielFreud/Adriel-Fernando)
+  [![Github Status](https://github-readme-stats.vercel.app/api?username=AdrielFreud&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/AdrielFreud/AdrielFreud)
 
-## Algumas tecnologias
+## Algumas Tecnologias
 
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
 <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:4px">
