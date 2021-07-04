@@ -14,7 +14,7 @@ Meu nome é Adriel F, Trabalho como Desenvolvedor de Sistemas e sou apaixonado p
 
 - :office_worker: Desenvolvedor na **Workana**
 - :blue_heart: Techs: Python, C/C++, Assembly, PHP, CSS, Javascript, NodeJS, ReactJS, MYSQL entre outras.
-- :books: Estudando Criação de Sites Responsivos de Ponta a Ponta:
+- :books: Estudando Desenvolvimento de Sites Responsivos de Ponta a Ponta:
 
 > :octocat: [adrielfreud.github.io/](https://adrielfreud.github.io/)
 
